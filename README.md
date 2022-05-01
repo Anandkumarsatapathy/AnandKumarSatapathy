@@ -1,8 +1,8 @@
 - 👋 Hi, I’m AnandKumarSatapathy
-- 👀 I’m interested in Web development & competitive programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development & Machine Learning
+- 🌱 I’m currently learning  Blockchain Development
+- 💞️ I’m looking to collaborate on  Blockchain Development
+- 📫 How to reach me:-anandkumarsatapathy@gmail.com
 
 <!---
 AnandKumarSatapathy/AnandKumarSatapathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
