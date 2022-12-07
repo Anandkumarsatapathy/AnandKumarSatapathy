@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Full Stack Web And Mobile Development 📲
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning  Blockchain Development
+- 🌱 I’m currently learning  Solidity,Web3js,Nextjs,Typescript & golang
 - 👀 can work on MERN stack projects
 - ⚡ 🗒️ my [Resume](https://drive.google.com/file/d/1et27BqUvvfsCJBDlSfU9KzqahN_IQvqW/view?usp=sharing) 
 - 📫 How to reach me:-anandkumarsatapathy123i@gmail.com
