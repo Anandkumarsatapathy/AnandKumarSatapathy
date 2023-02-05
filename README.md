@@ -1,13 +1,13 @@
 
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="350px" />
 
-<h3 align="center"> Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px" height ="40px"/> its Anand </h3> 
+<h3 align="center" fontsize="80px";> Hey <img src="https://user-images.githubusercontent.com/64174995/139855608-7ac5f1a6-62ee-4b85-b990-1d7eed65ffda.gif" width="40px" height ="40px"/> its Anand </h3> 
 
 - 🔭 I’m currently working on Full Stack Web And Mobile Development 📲
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning  Solidity,Web3js,Nextjs,Typescript & golang
+- 🌱 I’m currently learning  BlockChain Development.
 - 👀 can work on MERN stack projects
-- ⚡ 🗒️ my [Resume](https://drive.google.com/file/d/1et27BqUvvfsCJBDlSfU9KzqahN_IQvqW/view?usp=sharing) 
+- ⚡ 🗒️ My [Resume](https://drive.google.com/file/d/1et27BqUvvfsCJBDlSfU9KzqahN_IQvqW/view?usp=sharing)&[Portfolio](https://anandkumarsatapathy.netlify.app)
 - 📫 How to reach me:-anandkumarsatapathy123i@gmail.com
 
 
@@ -28,10 +28,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-
-
 <br/>
 
 
