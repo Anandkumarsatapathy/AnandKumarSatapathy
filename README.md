@@ -10,7 +10,7 @@
 - 📫 How to reach me:-anandkumarsatapathy123i@gmail.com
 
 
-###
+### 
 
 <br clear="both">
 
@@ -26,7 +26,7 @@
   <img src="https://profile-counter.glitch.me/Anandkumarsatapathy/count.svg?"  />
 </div>
 
-###
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -82,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
-###
+### 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anandkumarsatapathy" target="_blank">
@@ -105,11 +105,5 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=moltack&username=@anandkumarsatapathy" alt="Layout with last medium posts"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Anandkumarsatapathy/Anandkumarsatapathy/output/snake.svg" alt="Snake animation" />
 
 ###
